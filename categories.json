@@ -1,0 +1,68 @@
+{
+  "categories": [
+    {
+      "contentId": 12682879,
+      "title": "Asia"
+    },
+    {
+      "contentId": 12683245,
+      "title": "Discrimination"
+    },
+    {
+      "contentId": 12682883,
+      "title": "Europe"
+    },
+    {
+      "contentId": 12683241,
+      "title": "Middle East"
+    },
+    {
+      "contentId": 12683239,
+      "title": "Turkiye"
+    },
+    {
+      "contentId": 12683237,
+      "title": "Business"
+    },
+    {
+      "contentId": 12682881,
+      "title": "Australia"
+    },
+    {
+      "contentId": 12683249,
+      "title": "Latin America"
+    },
+    {
+      "contentId": 12682877,
+      "title": "Africa"
+    },
+    {
+      "contentId": 12683243,
+      "title": "Science & Tech"
+    },
+    {
+      "contentId": 12683253,
+      "title": "Climate"
+    },
+    {
+      "contentId": 12683251,
+      "title": "US & Canada"
+    },
+    {
+      "contentId": 12683247,
+      "title": "Arts & Culture"
+    },
+    {
+      "contentId": 12683218,
+      "title": "Perspectives"
+    },
+    {
+      "contentId": 12683233,
+      "title": "Magazine"
+    },
+    {
+      "contentId": 12682885,
+      "title": "Americas"
+    }
+  ]
+}
