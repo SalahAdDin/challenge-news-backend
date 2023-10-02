@@ -107,10 +107,6 @@
     },
     {
       "type": "paragaph",
-      "children": [{ "strikethrough": true, "text": "" }]
-    },
-    {
-      "type": "paragaph",
       "children": [
         {
           "text": "'When it comes to Türkiye, everything else is secondary'",
@@ -142,14 +138,12 @@
         }
       ]
     },
-    { "type": "paragaph", "children": [{ "text": "" }] },
     {
       "type": "image",
       "alt": "No one pursuing hostility towards Türkiye emerges victorious: Erdogan",
       "url": "https://cdn-i.pr.trt.com.tr/trtworld/w664/h374/q70/17228713_0-95-3478-1959.jpeg",
       "children": [{ "text": "" }]
     },
-    { "type": "paragaph", "children": [{ "text": "" }] },
     {
       "type": "paragaph",
       "children": [
