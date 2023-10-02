@@ -13,7 +13,7 @@ module.exports = () => {
     news: news.news.map((item) => ({
       ...item,
       views: Math.floor(Math.random() * 10000),
-      content,
+      content: content.content,
     })),
     categories: filterNonUnique(
       news.news.reduce((acc, current) => [...acc, ...current.categories], []),
