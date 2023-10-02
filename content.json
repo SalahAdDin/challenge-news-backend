@@ -1,7 +1,7 @@
 {
   "content": [
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         { "text": "Turkish President " },
         { "text": "Recep Tayyip Erdogan", "bold": true },
@@ -11,7 +11,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         { "text": "In a speech marking the start of the " },
         { "text": "Turkish Parliament'", "bold": true, "italic": true },
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "He underscored Türkiye's commitment to justice, legitimacy, and human life in these regions, preventing oppression and occupation."
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "\"As we've always said, those who associate themselves with terrorist organisations, harbour enmity towards Islam, and hold animosity towards Turks under any pretext will inevitably face the same fate one day.\""
@@ -41,7 +41,7 @@
       "children": [{ "text": "EU membership process" }]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Regarding Türkiye's membership process to the European Union, President Erdogan highlighted that Türkiye has faithfully fulfilled its promises to the EU while the union \"hardly fulfilled any of theirs.\""
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "He criticised the EU's persistent unfair and biased stance towards Türkiye, saying, \"Türkiye has no expectations from the EU, which we've been waiting at the door for 60 years.\""
@@ -57,7 +57,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Erdogan said the union should not have any expectations, be it political, social, economic or military, unless they address these injustices, especially the covert sanction of visa imposition."
@@ -65,7 +65,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "\"They can rectify their mistakes if they address these injustices,\" he said, adding that it is their decision if the EU want to end the full membership process.",
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Pointing out that Karabakh, a part of Azerbaijan, has finally achieved freedom and justice after 30 years of occupation, Erdogan expressed Türkiye's genuine effort to expand friendships and cooperation and said, \"We would be pleased to walk the path of common interests with anyone who takes the hand of friendship we extend.\""
@@ -83,30 +83,19 @@
     },
     {
       "type": "blockquote",
-      "children": [{ "text": "    Turkish President Erdogan:" }]
-    },
-    {
-      "type": "blockquote",
       "children": [
+        { "text": "    Turkish President Erdogan:" },
         {
           "text": "    - Terrorists trying to destroy peace and our citizens' security will never succeed"
-        }
-      ]
-    },
-    {
-      "type": "blockquote",
-      "children": [
+        },
         {
           "text": "    - Today's terrorist act in Ankara, in which two terrorists were neutralised thanks to timely intervention of police, is last flutters of terrorism pic.twitter.com/GXuklBiQMU"
-        }
+        },
+        { "text": "    — TRT World (@trtworld) October 1, 2023" }
       ]
     },
     {
-      "type": "blockquote",
-      "children": [{ "text": "    — TRT World (@trtworld) October 1, 2023" }]
-    },
-    {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "'When it comes to Türkiye, everything else is secondary'",
@@ -115,7 +104,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Saying that dialogue and diplomacy can resolve any complex issue, Erdogan highlighted their efforts to create a zone of peace and stability around Türkiye through regional integration projects."
@@ -123,7 +112,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Türkiye welcomes new collaborations \"as long as its sovereignty, hard-earned gains, and red lines are respected,\" he said."
@@ -131,7 +120,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "\"We expect all actors who follow the path determined by the people, prioritise what the people prioritise, and move in the same direction as the people to act with this sensitivity.\" "
@@ -145,7 +134,7 @@
       "children": [{ "text": "" }]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Emphasising the importance of a unified approach to the government's policies, the Turkish President said he hopes other groups and parties in the Turkish Parliament would also contribute in a spirit of broad consensus for the common good."
@@ -153,7 +142,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Erdogan affirmed that when defending their interests, they would not hesitate to stand up to anyone and expressed an openness to all kinds of constructive criticism and proposals that benefit the people, as long as it does not resort to insult, slander, or lie."
@@ -161,7 +150,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "He concluded by expressing hope that the new legislative year in the Parliament would open the door to a new spirit of cooperation, adding that the \"Century of Türkiye\" project would welcome support from all."
@@ -169,7 +158,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "In response to a question about Sweden's NATO membership process as he left the Parliament, President Erdogan said, \"You will follow the process.\"Read More"
@@ -177,7 +166,7 @@
       ]
     },
     {
-      "type": "paragaph",
+      "type": "paragraph",
       "children": [
         {
           "text": "Two police officers injured in terror attack in Turkish capital Ankara"
