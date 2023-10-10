@@ -1,6 +1,8 @@
 const news = require("./news.json");
 const categories = require("./categories.json");
 const content = require("./content.json");
+const items = require("./items.json");
+const { nanoid } = require("nanoid");
 
 const filterNonUnique = (array, property) =>
   array.filter(
@@ -19,6 +21,7 @@ module.exports = () => {
       news.news.reduce((acc, current) => [...acc, ...current.categories], []),
       "contentId"
     ).slice(1),
+    options: items.data.map((item) => ({ id: nanoid(), label: item })),
   };
 
   return data;
